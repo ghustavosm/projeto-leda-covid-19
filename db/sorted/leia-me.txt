@@ -1,0 +1,1 @@
+Serão gerados nesta pasta 23 arquivos ordenados. Cada algoritmo de ordenação irá ordenar os parâmetros "quantidade acumulada de óbitos" por ordem crescente, "quantidade acumulada de casos" por ordem crescente e "nome da cidade" por ordem alfabética.

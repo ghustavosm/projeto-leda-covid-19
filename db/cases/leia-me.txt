@@ -1,0 +1,1 @@
+Nesta pasta serão gerados os arquivos para o comparativo de melhor, médio e pior caso de cada algoritmo.
