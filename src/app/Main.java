@@ -13,6 +13,11 @@ import util.Resultado;
 import util.Array;
 import data.CSV;
 
+/*
+ * Projeto de Laboratório de Análise de Algoritmos
+ * Análise comparativa de algoritmos de ordenação aplicado a dados da COVID-19
+ * Aluno: Gustavo Silva Medeiros
+ */
 public class Main {
 
 	@SuppressWarnings("unused")
